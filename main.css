@@ -8,6 +8,7 @@ line-height: 58px;
 text-align: center;
 color: #FFFFFF;
 background-color: #503A65;
+
 margin: 0px;
 padding: 58px ;
 }
@@ -30,13 +31,15 @@ footer a { color: #FFFFFF;
 footer {margin-top: 100px;
 	}
 	
-
+main { margin-top: 40px;
+}
 
 section {
 	
 position:center;
 width: 928px;
-margin-left: 200px;
+margin-left: auto;
+margin-right: auto;
 font-family: Inter;
 font-style: normal;
 font-weight: 300;
